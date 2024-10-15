@@ -1,0 +1,4 @@
+﻿Period,ET (mm/d),Precip (mm/d),Pond WT (m),River WT Diff(m)
+baseflow,2,2,2725.7,0
+snowmelt,3,1.5,2725.84,0.48
+dry,2,1,2725.2,-0.05

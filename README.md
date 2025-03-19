@@ -17,7 +17,7 @@ This repository contains the data and code associated with the manuscript titled
 - **/notebooks/**: Five Jupyter notebooks covering:
   1. Floodplain structure reconstruction (Section 4.1)
   2. Hydrologic measurement visualization (Section 4.2)
-  3. Prior simulations (MC Set 1 and Set 3)
+  3. Prior simulations (Set 1 and Set 3)
   4. Model calibration using a neural density estimator (Section 4.3)
   5. Local and regional groundwater responses, and sensitivity analysis (Section 4.4, Section 5.1)
 
